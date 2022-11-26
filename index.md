@@ -1,4 +1,4 @@
 markdown: kramdown
-theme: midnight
+theme: minima
 
 This is a new Math Blog.
